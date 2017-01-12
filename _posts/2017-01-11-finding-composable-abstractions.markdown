@@ -8,15 +8,17 @@ disqus: y
 
 **Is there a method that reliably leads to composable abstractions?**
 
-I'm well aware of focusing first on the interface, not on the implemenation. However, I like Eric Normand's [approach][approach] of finding a physical metaphor even before you define the interface and come back to the physical metaphor when the implementation turns out to be flawed. He says
+I'm well aware that I should focus first on the interface, not on the implemenation. However, I like Eric Normand's [approach][approach] of finding a physical metaphor even before you define the interface and come back to the metaphor when the implementation turns out to be flawed. He says
 
 > "I've never met a good abstraction I couldn't turn into a good metaphor."
 
-When you want to build composable abstractions you have to start with the composition, not the implemenation. Programmers often start the other way around, because they want to see some results on their screen. Subsequent refactorings can only gain a local maximum, not the global.
+Eric uses a brush, a paintbox, overlays and the movement of the hand to design a composable vector graphics system.
+
+When you want to build composable abstractions you have to start with the composition, not the implementation. Programmers often start the other way around, because they want to see some results on their screen. Subsequent refactorings can merely reach a local maximum, not the global one.
 
 > Choice of abstraction matters. There is no way ro refactor Aristotelian into Newtonian Physics.
 
-His **process** towards good abstractions is
+His **process** towards a good abstraction is
 
 1. Find a physical metaphor
   - Metaphors contain answers to questions
@@ -25,9 +27,10 @@ His **process** towards good abstractions is
 2. Construction of meaning
   - Define the interface
   - Define the parts and their relationships
-  - Avoid corner cases while you can. Corner cases are multiplicate when you compose them.
+  - Avoid corner cases while you can, they are multiplicate when you compose them
   - Focus on composition
 3. Implementation
+  - Revist your physical metaphor, it contains the answer
   - Refactoring to achieve meta-properties
 
 [approach]: https://www.youtube.com/watch?v=jJIUoaIvD20
