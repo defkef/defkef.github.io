@@ -1,12 +1,19 @@
-title: devkev
-email: kevin@devkev.com
-description: > # this means to ignore newlines until "baseurl:"
-  I'm a web developer from Leipzig
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title:            devkev
+description:      I'm ruby, clojure, web developer from Leipzig. I write about other blog post, articles and conference talks I find worth reading.
+url:              devkev.de
+signoff:          Kevin
+disqus_shortname: devkev
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
+links:
+  - name:         Blog
+    url:          /
+  - name:         About
+    url:          /about
+
+permalink: /blog/:title
 markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
   - jekyll-paginate

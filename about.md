@@ -1,15 +1,20 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## About this blog
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+This blog is about being delighted about programming. It's a collection of conference talks, blog posts and articles I find remarkable.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Thank you for reading.
+
+## About me
+
+I'm ruby, clojure, web developer from Leipzig.
+
+Together with my colleague I have built [vinett-video][vinett-video], a german company that digitizes video tapes.
+
+You can contact me kevin@devkev.de
+
+[vinett-video]: https://www.vinett-video.de
