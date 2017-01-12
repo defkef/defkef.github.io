@@ -1,6 +1,6 @@
 title:            devkev
 description:      I'm ruby, clojure, web developer from Leipzig. I write about other blog post, articles and conference talks I find worth reading.
-url:              devkev.de
+url:              # devkev.de
 signoff:          Kevin
 disqus_shortname: devkev
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
