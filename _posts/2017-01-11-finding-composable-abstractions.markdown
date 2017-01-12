@@ -4,14 +4,19 @@ title:  "Finding composable abstractions"
 date:   2017-01-11
 share: y
 disqus: y
-author: Kevin
 ---
 
-Is there a method that reliably leads to composable abstractions?
+**Is there a method that reliably leads to composable abstractions?**
 
-I'm well aware of focusing first on the interface, not on the implemenation. However, I like Eric Normand's [approach][approach] of finding a physical metaphor even before you define the interface and come back to the physical metaphor when the implementation turns out to be flawed. "I've never met a good abstraction I couldn't turn into a good metaphor." he says. When you want to build composable abstractions you have to start with the composition, not the implemenation. Programmers often start the other way around, they want to see some results on their screen.
+I'm well aware of focusing first on the interface, not on the implemenation. However, I like Eric Normand's [approach][approach] of finding a physical metaphor even before you define the interface and come back to the physical metaphor when the implementation turns out to be flawed. He says
 
-His process towards good abstractions is
+> "I've never met a good abstraction I couldn't turn into a good metaphor."
+
+When you want to build composable abstractions you have to start with the composition, not the implemenation. Programmers often start the other way around, because they want to see some results on their screen. Subsequent refactorings can only gain a local maximum, not the global.
+
+> Choice of abstraction matters. There is no way ro refactor Aristotelian into Newtonian Physics.
+
+His **process** towards good abstractions is
 
 1. Find a physical metaphor
   - Metaphors contain answers to questions
