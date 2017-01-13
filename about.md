@@ -5,7 +5,7 @@ title: About
 
 ## About this blog
 
-This blog is about being delighted about programming. It's a collection of conference talks, blog posts and articles I find remarkable.
+This blog is about programming. It's a collection of other blog posts, conference talks and articles I find remarkable.
 
 Thank you for reading.
 
@@ -13,7 +13,7 @@ Thank you for reading.
 
 I'm ruby, clojure, web developer from Leipzig.
 
-Together with my colleague I have built [vinett-video][vinett-video], a german company that digitizes video tapes.
+In collaboration with my colleagues I have built [vinett-video.de][vinett-video], a german company that digitizes video tapes.
 
 You can contact me kevin@devkev.de
 
