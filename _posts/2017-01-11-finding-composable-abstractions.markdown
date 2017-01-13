@@ -14,11 +14,11 @@ I'm well aware that I should focus first on the interface, not on the implemenat
 
 Eric uses cut-outs and the movement of the hand to design the rotation and translation of a composable vector graphics system. A good metaphor keeps you grounded while designing the system - so you don't overabstract.
 
-When you want to build composable abstractions you have to start with the composition, not the implementation. Programmers often start the other way around, because they want to see some results on their screen. Subsequent refactorings can merely reach a local maximum, not the global one.
+When you want to build composable abstractions you have to start with the composition, not the implementation. Programmers often start the other way around because they want to see some results on their screen. Subsequent refactorings can merely reach a local maximum, not the global one.
 
 > Choice of abstraction matters. There is no way ro refactor Aristotelian into Newtonian Physics.
 
-During implementation revist your physical metaphor, it contains the answer to defects.
+During implementation revisit your physical metaphor, it contains the answer to defects.
 
 His **process** towards a good abstraction is
 
@@ -32,7 +32,7 @@ His **process** towards a good abstraction is
   - Avoid corner cases while you can, they are multiplicate when you compose them
   - Focus on composition
 3. Implementation
-  - Revist your physical metaphor, it contains the answer
+  - Revisit your physical metaphor, it contains the answer
   - Refactoring to achieve meta-properties
 
 <div class='video'>
