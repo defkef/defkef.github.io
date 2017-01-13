@@ -8,7 +8,7 @@ disqus: y
 
 **Is there a method that reliably leads to composable abstractions?**
 
-I'm well aware that I should focus first on the interface, not on the implemenation. However, I like Eric Normand's [approach][approach] of finding a physical metaphor even before you define the interface and come back to the metaphor when the implementation turns out to be flawed. He says
+I'm well aware that I should focus first on the interface, not on the implemenation. However, I like Eric Normand's approach (see video below) of finding a physical metaphor even before you define the interface and come back to the metaphor when the implementation turns out to be flawed. He says
 
 > "I've never met a good abstraction I couldn't turn into a good metaphor."
 
@@ -33,4 +33,6 @@ His **process** towards a good abstraction is
   - Revist your physical metaphor, it contains the answer
   - Refactoring to achieve meta-properties
 
-[approach]: https://www.youtube.com/watch?v=jJIUoaIvD20
+<div class='video'>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jJIUoaIvD20" frameborder="0" allowfullscreen></iframe>
+</div>
