@@ -244,8 +244,10 @@ section.post {
   padding: 0; }
   section.post > * {
     padding: 0 60px; }
+  section.post ul, section.post ol {
+    margin-left: 40px; }
   section.post ul ul, section.post ul ol, section.post ol ul, section.post ol ol {
-    margin-left: 20px;
+    margin-left: 60px;
     padding: 0; }
   section.post h1 {
     text-transform: uppercase;
@@ -357,9 +359,9 @@ img {
   left: 50%;
   font-size: 60px; }
 .paging .left {
-  margin-left: -340px; }
+  margin-left: -450px; }
 .paging .right {
-  margin-left: 320px; }
+  margin-left: 450px; }
 
 .video {
   margin-top: 30px;
