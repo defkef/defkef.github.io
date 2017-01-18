@@ -24,18 +24,11 @@ The universe has the property that throws patterns at our human interfaces. Thes
 
 However, life begins at the cellular level. A cell is the smallest universal machine to extract negentropy over a wide range of environments. It is a self-stabilizing, mutable, molecular machine.
 
-> Life is a cell. At no point there is no cell. There is always a cell.
+> Life is a cell - at no point there is no cell, there is always a cell.
 
-Multicellular organisms arise from different types of cells and their DNA is more like an operating system than a blueprint. The operating system is made of routines, called genes, which can do 4 things:
+Multicellular organisms arise from different types of cells and their DNA is more like an operating system than a blueprint. The operating system is made of routines, called genes, which can do different things, such as division and replication. What I understood is that cells can morph into other cells and perform a specific task. Nevertheless, they are not aware of the whole thing, the organism.
 
-- Regulate the cell to go back into homeostasis
-- Differentiate the cell to become a different cell (type)
-- Division the cell to become two cells of the same type
-- Kill the cell
-
-Organisms are colonies of cells in which some cells are specialized in information processing, i.e. they become neurons.
-
-The brain consists of the limbic system which induces pleasure and pain as well as impulses to seek future pleasure and avoid future pain. The limbic system is related to the subsistence, social and cognitive needs of an organism.
+Organisms are colonies of cells in which some cells are specialized in information processing, i.e. they become neurons. The brain consists of the limbic system which induces pleasure and pain as well as impulses to seek future pleasure and avoid future pain. The limbic system is related to the subsistence, social and cognitive needs of an organism.
 
 Another part of our brain, the hippocampus, associates the needs with situations in the real world. Animals have that too.
 
