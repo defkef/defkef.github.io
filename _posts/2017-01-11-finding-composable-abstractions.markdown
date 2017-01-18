@@ -12,7 +12,7 @@ I'm well aware that I should focus first on the interface, not on the implemenat
 
 > "I've never met a good abstraction I couldn't turn into a good metaphor."
 
-Eric uses cut-outs and the movement of the hand to design the rotation and translation of a composable vector graphics system. A good metaphor keeps you grounded while designing the system - so you don't overabstract.
+Eric uses cut-outs and the movement of the hand to design the rotation and translation of a composable vector graphics system. A good metaphor keeps you grounded while designing the system, so you don't overabstract.
 
 When you want to build composable abstractions you have to start with the composition, not the implementation. Programmers often start the other way around because they want to see some results on their screen. Subsequent refactorings can merely reach a local maximum, not the global one.
 
