@@ -7,7 +7,7 @@ title: About
 
 I don't know yet :)
 
-It's probably about programming and a collection of other blog posts, conference talks and articles I find worth knowing.
+It's probably about programming and a collection of other blog posts, conference talks and articles I find worth sharing.
 
 Thank you for reading.
 
