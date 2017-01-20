@@ -16,7 +16,7 @@ While these skills seem adorable to me, I am looking more for a path to obtain t
 
 > the key is deliberative practice: not just doing it again and again, but challenging yourself with a task that is just beyond your current ability, trying it, analyzing your performance while and after doing it, and correcting any mistakes.
 
-While learning by doing is probably the best kind of learning - which kind of seems a passive activity beside programming - you need to equip your toolbox and sharpen your thinking actively. *“To a man with a hammer, everything looks like a nail”* - Mark Twain is often quoted. Good solutions depend on your understanding of the problem domain and proper tools to handle them.
+While learning by doing is probably the best kind of learning - which kind of seems a passive activity beside programming - you need to equip your toolbox and sharpen your thinking actively. *“To a man with a hammer, everything looks like a nail”*, Mark Twain is often quoted. Good solutions depend on your understanding of the problem domain and proper tools to handle them.
 
 [Rich Hickey states](https://www.youtube.com/watch?v=f84n5oFoZBc) we are definitely suffering in quality because we don't spend enough time and energy thinking about a problem.
 
@@ -30,20 +30,20 @@ Here are some ingredients I find notable for becoming a better programmer:
 
 ## Deepen the knowledge about your programming language
 
-This goes hand in hand with writing code. However, there are more sources, such as reading other people's code and talking with other programmers. That way you learn about best practices, unusual language functions and useful libraries. Peer reviews and reading the docs might also feed your brain.
+This goes hand in hand with writing code. Still, there are more sources, such as reading other people's code and talking with other programmers. That way you learn about best practices, language functions and useful libraries. Local user groups, peer reviews or the docs also provide good input for your brain.
 
 ## Learn new frameworks
 
-To expand your toolbox it is good to know many architectural patterns, such as Event-Driven, MVC, Microservices, and a lot more. Don't use Rails, Django or Symphony for all your problems, try different approaches where it is appropriate. Your new skills will influence your programming habits even when your are forced into a framework.
+To expand your toolbox it is good to know many architectural patterns, such as Event-Driven, MVC, Microservices, and a lot more. Don't use Rails, Django or Symphony for all your problems, try different approaches where it is appropriate. Your new skills will add to your programming even when your are forced into a framework.
 
 ## Learn new programming languages
 
-Probably you come across debates about which programming language is the best. So why just don't learn them all? At least it would add some substance to those discussions.
-Each language emphasizes a concept, examples are Go's concurrency model, Elixir's (Erlang) pattern matching and Haskell's function pureness which all are worth learning.
+Probably you come across debates about which programming language is the best. So why just don't learn them all? At least it would add some quality to those discussions.
+Each language emphasizes different concepts, examples are Go's concurrency model, Elixir's (Erlang) pattern matching and Haskell's function pureness which are all worth learning.
 
 ## Learn programming paradigms: functional, object-oriented, logic, imperative, declarative
 
-This goes along with learning a new programming languages. It is not enough to know the paradigms. Behind their concepts are different mindsets that generally increase your understanding of the problems they solve. When you have a background in web development learn more about systems programming and vice versa. A good starting point is reading books, blogs and articles as well as watching conference talks. Maybe your next hobby project is built with [ArnoldC](https://github.com/lhartikk/ArnoldC).
+This goes along with learning a new programming languages. It is not enough to know the paradigms. Behind their approaches are different mindsets that generally increase your understanding of the problems they solve. When you have a background in web development learn more about systems programming and vice versa. A good starting point is reading books, blogs and articles as well as watching conference talks. Maybe your next hobby project is built in [ArnoldC](https://github.com/lhartikk/ArnoldC).
 
 ## Work on code basis of different magnitudes
 
@@ -53,4 +53,4 @@ A programmer which handles projects of a certain size might not cope with larger
 
 Become an application developer, framework author, UI, backend, database, library developer and even a language designer - each domain rises their own challenges.
 
-Of course, these and other methods are more the wrapping in which knowledge may or may not get delivered. Tackling problems by different point of views, in different languages, with different tools increases your understanding - your thinking will become much clearer and precise. Still, you need to reflect on your code, recognise failures and shortcomings, especially when it comes to major reworks.
+Of course, these and other methods are more the wrapping in which insights and knowledge may or may not get delivered. Tackling problems by different point of views, in different languages and with different tools increases your understanding - your thinking will become much clearer and precise. Still, you need to reflect on your code, recognise failures and shortcomings, especially when it comes to major code reworks.
