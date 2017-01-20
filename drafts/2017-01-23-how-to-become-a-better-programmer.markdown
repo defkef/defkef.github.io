@@ -36,13 +36,17 @@ This goes hand in hand with writing code. Still, there are more sources, such as
 
 To expand your toolbox it is good to know many architectural patterns, such as Event Sourcing, MVC, Microservices, and a lot more. Don't use Rails, Django or Symphony for all your problems, try different approaches where it is appropriate. Your new skills will add to your programming even when your are forced into a framework.
 
-## Learn new programming languages
+## Learn new programming languages and paradigms
 
-Probably you come across debates about which programming language is the best. So why just don't learn them all? At least it would add some quality to those discussions. Each language emphasizes different concepts, examples are Go's concurrency model, Elixir's (Erlang) pattern matching and Haskell's function pureness which are all worth learning.
+Probably you come across debates about which programming language is the best. So why just don't learn them all? At least it would add some quality to those discussions.
 
-## Learn programming paradigms: functional, object-oriented, logic, imperative, declarative
+Each paradigm, such as functional, object-oriented, logic, imperative and declarative programming emphasizes a  different approach and different mindset that increases your understanding of the problems they solve. It is not enough to know the name or the idea behind a paradigm, you have to work with it.
 
-This goes along with learning a new programming languages. It is not enough to know the paradigms. Behind their approaches are different mindsets that generally increase your understanding of the problems they solve. When you have a background in web development learn more about systems programming and vice versa. A good starting point is reading books, blogs and articles as well as watching conference talks. Maybe your next hobby project is built in [ArnoldC](https://github.com/lhartikk/ArnoldC).
+> When you feel uncomfortable with a new language, you are on the right track.
+
+In addition, each language comes with a different concept of managing certain problems. Examples are Go's concurrency model, Elixir's (Erlang) pattern matching and Haskell's function pureness which are all worth learning.
+
+When you have a background in web development learn more about systems programming and vice versa. A good starting point is reading books, blogs and articles as well as watching conference talks. Maybe your next hobby project is built in [ArnoldC](https://github.com/lhartikk/ArnoldC).
 
 ## Work on code basis of different magnitudes
 
