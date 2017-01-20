@@ -48,7 +48,7 @@ In addition, each language comes with a different concept of managing certain pr
 
 When you have a background in web development learn more about systems programming and vice versa. A good starting point is reading books, blogs and articles as well as watching conference talks. Maybe your next hobby project is built in [ArnoldC](https://github.com/lhartikk/ArnoldC).
 
-## Work on code basis of different magnitudes
+## Work on codebases of different magnitudes
 
 A programmer which handles projects of a certain size might not cope with larger projects very well. There is a threshold between coding scripts of a few hundred lines and projects of 5,000, 20,000 and 100,000 LOC.
 
