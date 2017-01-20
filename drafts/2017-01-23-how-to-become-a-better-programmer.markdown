@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to become a better programmer?"
-date: 2017-01-23
+title: "How to become a better programmer"
+date: 2017-01-19
 share: y
 disqus: y
 ---
@@ -18,11 +18,11 @@ While these skills seem adorable to me, I am looking more for a path to obtain t
 
 While learning by doing is probably the best kind of learning - which kind of seems a passive activity beside programming - you need to equip your toolbox and sharpen your thinking actively. *“To a man with a hammer, everything looks like a nail”*, Mark Twain is often quoted. Good solutions depend on your understanding of the problem domain and proper tools to handle them.
 
-[Rich Hickey states](https://www.youtube.com/watch?v=f84n5oFoZBc) we are definitely suffering in quality because we don't spend enough time and energy thinking about a problem.
+[Rich Hickey states](https://www.youtube.com/watch?v=f84n5oFoZBc) we are definitely suffering in quality here because we don't spend enough time and energy thinking about a problem.
 
 > Unfortunately, sometimes, overnight is not enough. Some big problems, especially finding really good abstractions or finding answers to things that satisfy a bunch of simultaneous constraints take a long time, it just does.
 
-On the other side, Bill Sourour says, you should not spend your time learning every new thing in order to stay relevant. Instead focus more on fundamentals. For example, once you know the basics of MVC frameworks, you can easily learn Rails, Django or Symfony. Bill also writes your mind and body need down time, and they’re going to get it whether you like it or not.
+On the other side, Bill Sourour says, you should not spend your time learning every new thing on the planet in order to stay relevant. Instead focus more on fundamentals. For example, once you know the basics of MVC frameworks, you can easily learn Rails, Django or Symfony. Bill also writes your mind and body need down time, and they’re going to get it whether you like it or not.
 
 > The brain’s ability to self-regulate — to stay disciplined — wanes with each exercise of self-control during the day. It’s a loss of resources that must be replenished. Otherwise it becomes harder to stay on-task, be attentive and solve problems.
 
@@ -34,17 +34,17 @@ This goes hand in hand with writing code. Still, there are more sources, such as
 
 ## Learn new frameworks
 
-To expand your toolbox it is good to know many architectural patterns, such as Event Sourcing, MVC, Microservices, and a lot more. Don't use Rails, Django or Symphony for all your problems, try different approaches where it is appropriate. Your new skills will add to your programming even when your are forced into a framework.
+To expand your toolbox it is good to know many architectural patterns, such as Event Sourcing, Microservices, Actor Model, and a lot more. Don't use Rails, Django or Symphony for all your problems, try different approaches where it is appropriate. Your new skills will add to your programming even when your are forced into a framework.
 
 ## Learn new programming languages and paradigms
 
 Probably you come across debates about which programming language is the best. So why just don't learn them all? At least it would add some quality to those discussions.
 
-Each paradigm, such as functional, object-oriented, logic, imperative and declarative programming emphasizes a  different approach and different mindset that increases your understanding of the problems they solve. It is not enough to know the name or the idea behind a paradigm, you have to work with it.
+Each paradigm, such as functional, object-oriented, logic, imperative and declarative programming emphasizes a  different approach and a different mindset that increases your understanding of the problems they solve. It is not enough to know the name or the idea behind a paradigm, you have to work with it.
 
-> When you feel uncomfortable with a new language, you are on the right track.
+When you feel uncomfortable with a new language, you are on the right track.
 
-In addition, each language comes with a different concept of managing certain problems. Examples are Go's concurrency model, Elixir's (Erlang) pattern matching and Haskell's function pureness which are all worth learning.
+In addition, each language comes with a different concept of managing certain problems. Examples are Go's concurrency model, Elixir's (Erlang) pattern matching and Haskell's function pureness which are all worth knowing.
 
 When you have a background in web development learn more about systems programming and vice versa. A good starting point is reading books, blogs and articles as well as watching conference talks. Maybe your next hobby project is built in [ArnoldC](https://github.com/lhartikk/ArnoldC).
 
