@@ -34,12 +34,11 @@ This goes hand in hand with writing code. Still, there are more sources, such as
 
 ## Learn new frameworks
 
-To expand your toolbox it is good to know many architectural patterns, such as Event-Driven, MVC, Microservices, and a lot more. Don't use Rails, Django or Symphony for all your problems, try different approaches where it is appropriate. Your new skills will add to your programming even when your are forced into a framework.
+To expand your toolbox it is good to know many architectural patterns, such as Event Sourcing, MVC, Microservices, and a lot more. Don't use Rails, Django or Symphony for all your problems, try different approaches where it is appropriate. Your new skills will add to your programming even when your are forced into a framework.
 
 ## Learn new programming languages
 
-Probably you come across debates about which programming language is the best. So why just don't learn them all? At least it would add some quality to those discussions.
-Each language emphasizes different concepts, examples are Go's concurrency model, Elixir's (Erlang) pattern matching and Haskell's function pureness which are all worth learning.
+Probably you come across debates about which programming language is the best. So why just don't learn them all? At least it would add some quality to those discussions. Each language emphasizes different concepts, examples are Go's concurrency model, Elixir's (Erlang) pattern matching and Haskell's function pureness which are all worth learning.
 
 ## Learn programming paradigms: functional, object-oriented, logic, imperative, declarative
 
