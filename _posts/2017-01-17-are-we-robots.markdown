@@ -26,7 +26,7 @@ However, life begins at the cellular level. A cell is the smallest universal mac
 
 > Life is a cell - at no point there is no cell, there is always a cell.
 
-Multicellular organisms arise from different types of cells and their DNA is more like an operating system than a blueprint. The operating system is made of routines, called genes, which can do different things, such as division and replication. What I understood is that cells can morph into other cells and perform a specific task. Nevertheless, they are not aware of the whole thing, the organism.
+Multicellular organisms arise from different types of cells and their DNA is more like an operating system than a blueprint. The operating system is made of routines, called genes, which can do different things, such as division and replication. What I understood is that cells can morph into other cells and perform a specific task. Nevertheless, they are not aware of the whole thing - the organism.
 
 Organisms are colonies of cells in which some cells are specialized in information processing, i.e. they become neurons. The brain consists of the limbic system which induces pleasure and pain as well as impulses to seek future pleasure and avoid future pain. The limbic system is related to the subsistence, social and cognitive needs of an organism.
 
@@ -42,11 +42,9 @@ Furthermore, there are more synthesizers on top of the other synthesizers. They 
 
 > The mental simulation is the world that we believe to live in.
 
-The real world out there is made up of weird quantum mechanics that are entangled with our retina and other senses. So our neural networks predict the patterns that come into our senses. People find similar regularities.
+The real world out there is made up of weird quantum mechanics that are entangled with our retina and other senses. So our neural networks predict the patterns that come into our senses. People find similar regularities, thats why we can talk about things.
 
-Neurons form groups which are comparable to a music instrument in an orchestra. They play the music of your mind. A conductor is another brain area which maintains and communicates via a protocol. The protocol is a story that the system tells itself about itself.
-
-Remembering having been conscious is necessary and sufficient for consciousness. Therefore, access to the protocol gets integrated into the protocol.
+Neurons form groups which are comparable to a music instrument in an orchestra. They play the music of your mind. A conductor is another brain area which maintains and communicates via a protocol. The protocol is a story that the system tells itself about itself. Remembering having been conscious is necessary and sufficient for consciousness. Therefore, access to the protocol must be integrated into the protocol.
 
 > We are probably not actually conscious in this very moment but we do have a memory of having been conscious of something a moment ago.
 
