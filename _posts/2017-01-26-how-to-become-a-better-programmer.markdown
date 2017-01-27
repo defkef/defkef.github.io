@@ -44,7 +44,7 @@ Each paradigm, such as functional, object-oriented, logic, imperative and declar
 
 In addition, each language comes with a different concept of managing certain problems. Examples are Go's concurrency model, Rust's thread safety and Haskell's function pureness which are all worth knowing.
 
-When you have a background in web development learn more about systems programming and vice versa. A good starting point is reading books, blogs and articles as well as watching conference talks. Maybe your next hobby project is built in [ArnoldC](https://github.com/lhartikk/ArnoldC).
+When you have a background in web development learn more about systems programming and vice versa. Maybe your next hobby project is built in [ArnoldC](https://github.com/lhartikk/ArnoldC).
 
 ## Work on codebases of different magnitudes
 
