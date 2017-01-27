@@ -8,11 +8,11 @@ disqus: y
 
 In the book Outliers, author Malcolm Gladwell says that it takes roughly 10,000 hours of practice to achieve mastery in a field. Although it takes time, you won't improve your coding just by writing more code, there are also some quality factors involved.
 
-Kent Bent has observed [common patterns](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414) in the workflow of master programmers. The essence here is scaling your brain.
+[Kent Bent has observed common patterns](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414) in the workflow of master programmers. The essence here is scaling your brain.
 
 > The journeyman learns to solve bigger problems by solving more problems at once. The master learns to solve even bigger problems than that by solving fewer problems at once. Part of the wisdom is subdividing so that integrating the separate solutions will be a smaller problem than just solving them together.
 
-While these skills seem adorable to me, I am looking more for a path to obtain them. One's learning curve is not rising permanently as it also includes plateaus, probably a lot. All you can do is to cut long periods of stagnation. Peter Norvig [says](http://norvig.com/21-days.html)
+While these skills seem adorable to me, I am looking more for a path to obtain them. One's learning curve is not rising permanently as it also includes plateaus, probably a lot. All you can do is to cut long periods of stagnation. [Peter Norvig says](http://norvig.com/21-days.html)
 
 > The key is deliberative practice: not just doing it again and again, but challenging yourself with a task that is just beyond your current ability, trying it, analyzing your performance while and after doing it, and correcting any mistakes.
 
@@ -22,7 +22,7 @@ While learning by doing is probably the best kind of learning - which kind of se
 
 > Unfortunately, sometimes, overnight is not enough. Some big problems, especially finding really good abstractions or finding answers to things that satisfy a bunch of simultaneous constraints take a long time, it just does.
 
-On the other side, Bill Sourour says, you should not spend your time learning every new thing on the planet in order to stay relevant. Instead focus more on fundamentals. For example, once you know the basics of MVC frameworks, you can easily learn Rails, Django or Symfony. Bill also writes your mind and body need down time, and they’re going to get it whether you like it or not.
+On the other side, [Bill Sourour says](https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.41ldba1ev), you should not spend your time learning every new thing on the planet in order to stay relevant. Instead focus more on fundamentals. For example, once you know the basics of MVC frameworks, you can easily learn Rails, Django or Symfony. Bill also writes your mind and body need down time, and they’re going to get it whether you like it or not.
 
 > The brain’s ability to self-regulate — to stay disciplined — wanes with each exercise of self-control during the day. It’s a loss of resources that must be replenished. Otherwise it becomes harder to stay on-task, be attentive and solve problems.
 
