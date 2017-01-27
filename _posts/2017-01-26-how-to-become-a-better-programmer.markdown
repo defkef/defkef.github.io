@@ -50,7 +50,7 @@ When you have a background in web development learn more about systems programmi
 
 A programmer which handles projects of a certain size might not cope with larger projects very well. There is a threshold between coding scripts of a few hundred lines and projects of 5,000, 20,000 and 100,000 LOC.
 
-## Get involved at every software tier
+## Get involved in many software tiers
 
 Become an application developer, framework author, UI, backend, database, library developer and even a language designer - each domain rises their own challenges.
 
