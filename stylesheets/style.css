@@ -312,6 +312,25 @@ section.post, section > p {
   section.post li p, section > p li p {
     margin-bottom: 5px; }
 
+section.post > table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-left: 60px;
+  border: 1px solid #ddd;
+}
+
+section.post > table > thead > tr > th {
+  border-bottom-width: 2px;
+  border-bottom: 2px solid #ddd;
+}
+
+section.post > table > tbody > tr > td {
+  padding: 4px;
+  vertical-align: top;
+}
+
+
+
 .highlight {
   margin: 0;
   padding: 0; }
