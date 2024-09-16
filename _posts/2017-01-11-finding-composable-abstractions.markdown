@@ -2,8 +2,6 @@
 layout: post
 title:  "Finding composable abstractions"
 date:   2017-01-11
-share: y
-disqus: y
 ---
 
 **Is there a method that reliably leads to composable abstractions?**

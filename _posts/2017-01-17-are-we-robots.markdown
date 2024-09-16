@@ -2,8 +2,6 @@
 layout: post
 title:  "Are we robots or can we build intelligent robots?"
 date:   2017-01-17
-share: y
-disqus: y
 ---
 
 
@@ -57,4 +55,3 @@ More talks:
 
 - [Computational Meta-Psychology](https://www.youtube.com/watch?v=WRdJCFEqFTU)
 - [Artificial Intelligence Reloaded](https://www.youtube.com/watch?v=2o2xBOQeB7Q How to Build a Mind)
-

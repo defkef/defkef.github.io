@@ -2,8 +2,6 @@
 layout: post
 title:  "Why CQRS matters in software design"
 date:   2017-02-10
-share: y
-disqus: y
 ---
 
 

@@ -2,8 +2,6 @@
 layout: post
 title: "How to become a better programmer"
 date: 2017-01-26
-share: y
-disqus: y
 ---
 
 In the book Outliers, author Malcolm Gladwell says that it takes roughly 10,000 hours of practice to achieve mastery in a field. Although it takes time, you won't improve your coding just by writing more code, there are also some quality factors involved.

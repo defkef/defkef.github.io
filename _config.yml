@@ -1,16 +1,13 @@
-title:            devkev
-description:      I'm ruby, clojure, web developer from Leipzig. I write about other blog post, articles and conference talks I find worth reading.
-url:              # devkev.de
-signoff:          Kevin
-disqus_shortname: devkev
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: UA-77074326-2
+title: DevKev
+description: I'm Kevin, a Ruby and Clojure web developer based in Leipzig. I share insightful blog posts, articles, and conference talks that I find valuable and worth reading.
+url: # devkev.de
+signoff: Kevin
 
 links:
-  - name:         Blog
-    url:          /
-  - name:         About
-    url:          /about
+  - name: Blog
+    url: /
+  - name: About
+    url: /about
 
 permalink: /blog/:title
 markdown: kramdown

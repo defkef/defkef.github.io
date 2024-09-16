@@ -2,21 +2,16 @@
 layout: page
 title: About
 ---
+## About This Blog
 
-## About this blog
+Welcome to my blog! Here, you'll find a curated collection of programming insights, blog posts, conference talks, and articles that I believe are worth sharing. Whether you're a seasoned developer or just starting out, I hope you find something valuable here.
 
-I don't know yet :)
+Thank you for reading!
 
-It's probably about programming and a collection of other blog posts, conference talks and articles I find worth sharing.
+## About Me
 
-Thank you for reading.
+Hi, I'm Kevin, a Ruby and Clojure web developer based in Leipzig. Alongside my talented colleagues, I co-founded [Vinett Video][vinett-video], a German company dedicated to digitizing video tapes.
 
-## About me
-
-I'm Kevin Täubrecht, a ruby, clojure, web developer from Leipzig.
-
-In collaboration with my colleagues I have built [vinett-video.de][vinett-video], a german company that digitizes video tapes.
-
-If you want to contact me, you can reach me at kevin@devkev.de
+Feel free to reach out to me at kevin@devkev.de if you have any questions or just want to connect.
 
 [vinett-video]: https://www.vinett-video.de
